@@ -1,0 +1,31 @@
+{
+  "name": "canvasplanner",
+  "version": "1.0.0",
+  "description": "The best planner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canboard/Canvas.git"
+  },
+  "keywords": [
+    "canvas",
+    "planner"
+  ],
+  "author": "Canboard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canboard/Canvas/issues"
+  },
+  "homepage": "https://github.com/canboard/Canvas#readme",
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "gulp": "^3.8.11",
+    "gulp-tslint": "^3.0.1-beta",
+    "gulp-typescript": "^2.7.5",
+    "tsd": "^0.6.0-beta.5",
+    "tslint": "^2.2.0-beta"
+  }
+}
