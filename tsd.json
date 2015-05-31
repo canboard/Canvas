@@ -7,6 +7,15 @@
   "installed": {
     "jquery/jquery.d.ts": {
       "commit": "2d4c4679bc2b509f27435a4f9da5e2de11258571"
+    },
+    "angularjs/angular.d.ts": {
+      "commit": "aae45edc2a66df08c931bd8f104df34aeae6306d"
+    },
+    "mongodb/mongodb.d.ts": {
+      "commit": "aae45edc2a66df08c931bd8f104df34aeae6306d"
+    },
+    "node/node.d.ts": {
+      "commit": "aae45edc2a66df08c931bd8f104df34aeae6306d"
     }
   }
 }
